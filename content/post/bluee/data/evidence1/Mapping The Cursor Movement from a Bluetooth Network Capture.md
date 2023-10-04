@@ -96,5 +96,5 @@ plot_x and plot_y lists are converted to numpy arrays and modified (multiply plo
 **Note: Make sure you have the necessary libraries installed (os, matplotlib, numpy) and replace "yourpcaphere.pcap" with the actual path to your pcap file. Additionally, you may need to adjust the figure size (plt.figure(figsize=(100,60))) according to your needs.**
 
 
-<sub><sup>*~by Barshan Mondal,*<br>Team Bios</sup></sub>
+<sub><sup>*credits: ~by Barshan Mondal,*<br>Team Bios</sup></sub>
     
