@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/' 
+baseURL = "https://puffer.github.io/" 
 languageCode = 'en-us'
 theme = "JuiceBar"
 title = "Puffer"
