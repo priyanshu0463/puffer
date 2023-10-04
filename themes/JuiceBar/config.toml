@@ -70,3 +70,4 @@ url = "/categories"
 # Used for outputting the documentation (required).
 [outputs]
 home = ["HTML", "RSS", "JSON"]
+canonifyURLs = true
